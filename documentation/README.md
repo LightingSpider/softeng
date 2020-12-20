@@ -16,9 +16,11 @@ In this repository we have the ***documentation*** for our project **"MyCharger"
   * ER for NoSQL Database
 
 There is also a .txt document included, with links to Online Visual Paradigm for the UML diagrams.
+
 For every diagram and document, there is an editible document and a pdf. 
 
 Don't forget we have invited you in our Workspace in Online Visual Paradigm.
 
 By team,
+
 **!(Last Time)**.
