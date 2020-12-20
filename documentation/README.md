@@ -1,6 +1,6 @@
 # About 
 
-In this repository we have the documentation for our project **"MyCharger"**.
+In this repository we have the ***documentation*** for our project **"MyCharger"**.
 
 * **Documents**: 
   * SRS
