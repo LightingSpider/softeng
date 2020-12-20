@@ -2,7 +2,9 @@
 
 In this repository we have the documentation for our project **"MyCharger"**.
 
-* **Documents**: SRS,StRS for stakeholders (parking owners, electric vehicle owners)
+* **Documents**: 
+		* SRS
+  * StRS for Stakeholders (parking owners, electric vehicle owners)
 * **Diagrams**: 
   * Component Diagram
   * Class Diagram
