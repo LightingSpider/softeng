@@ -1,22 +1,22 @@
 # About 
 
-In this repository we have the documentation for our project "MyCharger".
+In this repository we have the documentation for our project **"MyCharger"**.
 
-* Documents included: SRS,StRS for stakeholders (parking owners, electric vehicle owners)
-* Diagrams: 
-  1) Component Diagram
-  2) Class Diagram
-  3) Deployment Diagram
-  4) Use Case 1 Activity Diagram
-  5) Use Case 1 Sequence Diagram
-  6) Use Case 2 Activity Diagram
-  7) Use Case 2 Sequence Diagram
-  8) ER for NoSQL Database
+* **Documents**: SRS,StRS for stakeholders (parking owners, electric vehicle owners)
+* **Diagrams**: 
+  * Component Diagram
+  * Class Diagram
+  * Deployment Diagram
+  * Use Case 1 Activity Diagram
+  * Use Case 1 Sequence Diagram
+  * Use Case 2 Activity Diagram
+  * Use Case 2 Sequence Diagram
+  * ER for NoSQL Database
 
 There is also a .txt document included, with links to Online Visual Paradigm for the UML diagrams.
 For every diagram and document, there is an editible document and a pdf. 
 
-Don't forget you are invited in our Workspace!!!
+Don't forget we have invited you in our Workspace in Online Visual Paradigm.
 
 By team,
-!(Last Time).
+**!(Last Time)**.
