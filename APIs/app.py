@@ -1,7 +1,7 @@
 from flask import Flask, request, jsonify
 from flask_restx import Resource, Api, fields, marshal_with, abort
 
-import settings
+import numpy
 
 app = Flask(__name__)
 api = Api(app=app, version="1.0", title="My APIs")
